@@ -1,0 +1,1 @@
+# ember-paint-game
